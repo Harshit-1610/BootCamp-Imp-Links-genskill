@@ -1,0 +1,11 @@
+Class on 25-05-2021
+Imp Links
+https://projecteuler.net/
+https://exercism.io/
+https://matt.might.net/articles/basic-unix/
+https://www.amazon.in/Learn-Python-3-Hard-Way/dp/9352865103
+https://docs.python.org/3/tutorial/index.html
+https://docs.python-guide.org/intro/learning/
+http://www.catb.org/~esr/faqs/smart-questions.html
+https://git-scm.com/book/en/v2
+
