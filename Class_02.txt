@@ -1,2 +1,5 @@
 Class on 27-05-2021
-Imp Links and Notes
+Imp Links 
+https://docs.fileformat.com/audio/wav/
+https://leetcode.com/interview/?gclid=Cj0KCQjwhr2FBhDbARIsACjwLo3Vr4FEDcRzNrNie1CTTjHiHoXwEMLTl0ksovmOTCH3DdUTmTNp4WwaAuM0EALw_wcB
+https://github.com/Genskill/fullstackbootcamp
